@@ -8,7 +8,8 @@ Code about React hooks used in the codemotion talk about it [codemotion talk](ht
 2. run `yarn start` or `npm run start`
 
 
-### commits
+### branches
 
-* Initial commit: `0717854` 
+* `master` with the initial demo code 
+* `refactored-to-hooks` with the demo code completed
 
